@@ -1,2 +1,2 @@
 # OOP
-Here are some OOP projects given as an assigment. 
+Here are some c/c++ projects given as an assigment. 
